@@ -26,7 +26,7 @@ steps:
     args:
       - 'run'
       - 'deploy'
-      - 'flaskappml'
+      - 'mohith-flaskappml'
       - '--image'
       - 'gcr.io/$PROJECT_ID/appcicd:latest'
       - '--region'
